@@ -1,3 +1,9 @@
+rem :: WINDOWS 10 HACKTIVATOR - Licence key changer script for all Windows 10 version
+rem :: Code by HackersWolf
+rem :: Version 1.2
+rem :: Github : https://github.com/HackersWolf/Windows-10-Hacktivator
+
+
 @echo off
 if not "%1" == "max" start /MAX cmd /c %0 max & exit/b
 cls
